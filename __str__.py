@@ -5,6 +5,8 @@ class member:
         return f"My Skills are: {self.skills}"
 Man1=member()
 print(Man1)
+Man1.append("PHP")
+print(Man1)
 
 """
 --------------------------------------
